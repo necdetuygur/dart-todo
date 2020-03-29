@@ -1,0 +1,4 @@
+name: todo
+
+dependencies:
+  sqlite3: ^0.0.1+1
